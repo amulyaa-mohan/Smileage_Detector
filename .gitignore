@@ -1,0 +1,4 @@
+# Virtual environments
+smilage_env/
+*.pyc
+__pycache__/
